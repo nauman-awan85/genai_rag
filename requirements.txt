@@ -1,0 +1,13 @@
+langchain
+llama-index
+sentence-transformers
+faiss-cpu
+openai
+transformers
+torch
+numpy
+pandas
+openai-whisper
+pillow
+opencv-python
+
